@@ -26,9 +26,7 @@ Modification du main.yml du sous répertoire tasks afin d’ajouter les opérati
 
 
 
-![image](https://user-images.githubusercontent.com/75615006/140284025-55de1f1a-3010-40ee-9d73-e0b10dd704b7.png)
-
-
+![image](https://user-images.githubusercontent.com/75615006/140285021-e8ecb1af-86f6-4885-99d6-7d62e2255d86.png)
 
 
 Arbre de l'organisation générale, avec création de roles pour webapp et dockerinstall :
