@@ -1,0 +1,6 @@
+ansible_user: vagrant
+vault_ansible_password: "{{ vault_ansible_password }}"
+ansible_ssh_extra_args: "-o StrictHostKeyChecking=no"
+ansible_sudo_pass: root
+port: "80"
+welcome: Bienvenue sur le serveur {{ ansible_hostname }}
