@@ -36,6 +36,11 @@ Arbre de l'organisation générale, avec création de roles pour webapp et docke
 ![image](https://user-images.githubusercontent.com/75615006/140283740-f594bbac-9b34-4788-9575-e7652a84e934.png)
 
 
+Organisation du playbook ansible qui va jouer les roles :
+
+![image](https://user-images.githubusercontent.com/75615006/140284540-d384957b-a2ab-4aaf-9b0c-0c6e3998dfa2.png)
+
+
 
 
 
