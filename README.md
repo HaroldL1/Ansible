@@ -22,7 +22,7 @@ Modification du main.yml du sous répertoire defaults afin d’ajouter les varia
 
 
 
-Modification du main.yml du sous répertoire tasks afin d’ajouter les opérations d’installation de Docker et du déploiement de  l’application web :
+Modification du main.yml du sous répertoire tasks afin d’ajouter les opérations de mise en place de l'image de Docker et du déploiement de  l’application web :
 
 
 
@@ -31,7 +31,7 @@ Modification du main.yml du sous répertoire tasks afin d’ajouter les opérati
 
 
 
-Arbre de l'organisation générale, avec création de roles pour webapp et dockerbuild :
+Arbre de l'organisation générale, avec création de roles pour webapp et dockerinstall :
 
 ![image](https://user-images.githubusercontent.com/75615006/140283740-f594bbac-9b34-4788-9575-e7652a84e934.png)
 
