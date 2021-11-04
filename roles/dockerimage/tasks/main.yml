@@ -29,7 +29,7 @@
 
 - name: build container image
   community.docker.docker_image:
-    name: pintade/nginx:v1.0
+    name: haroldl/nginx:v1.0
     build:
       path: "{{ project_dir }}"
     source: build
